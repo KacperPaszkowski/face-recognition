@@ -13,8 +13,17 @@ For encoding faces it's important to have that directory structure in project di
     │   │   └── example2.jpg
     │   └── name3
     │       └── example.jpg
-    ├── encodedData.pickle
     ├── face-encoding.py
     ├── face-recognition.py
     └── live_face_recognition.py
 
+After preparing images all you need to do is to run face-encoding.py script. When script stop encoding data, there should be file called "encodedData.pickle".
+
+# 2. Face recognition
+
+If you have successfully encoded your data now you just need to run face-recognition.py script.
+
+
+API will use main webcam as default. To change it to video saved as for example ".mp4" you need to change line 117 in live_face_recognition.py
+
+To increase performance you can make image smaller by changing argument in getFrame function
