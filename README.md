@@ -33,4 +33,4 @@ This file contains classes used to locate, recognize and display faces.
 
 # 4. Future updates
 
-- Database with last seen date.
+- Database with last seen date. ✓
