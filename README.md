@@ -29,3 +29,6 @@ Next step after encoding data is to run main script called "face-recognition.py"
 
 This file contains classes used to locate, recognize and display faces.
 
+# 4. Future updates
+
+- Database with last seen date.
