@@ -17,6 +17,8 @@ For encoding faces it's important to have that directory structure in project di
     ├── face-recognition.py
     └── live_face_recognition.py
 
+On image should be only one person. It doesn't matter if there is only a face or whole body.
+
 After preparing images all you need to do is to run face-encoding.py script. When script stop encoding data, there should be file called "encodedData.pickle".
 
 # 2. Face recognition
