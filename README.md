@@ -1,6 +1,6 @@
 # realtime-face-recognition 
 
-Tested on Python 3.6 and Ubuntu 18.04.
+Tested on Python 3.6 and Ubuntu 18.04, Raspberry Pi 4.
 
 # 1. face-encoding.py
 
