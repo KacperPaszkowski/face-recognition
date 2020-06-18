@@ -1,5 +1,7 @@
 # realtime-face-recognition 
 
+Tested on Python 3.6 and Ubuntu 18.04.
+
 # 1. face-encoding.py
 
 For encoding faces it's important to have that directory structure in project directory:
